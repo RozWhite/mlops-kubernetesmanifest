@@ -18,7 +18,7 @@ spec:
         app: irisapp
     spec:
       containers:
-      - image: rozitadocker123/mlops-jenkins:latest
+      - image: rozitadocker123/mlops-jenkins:4
         name: irisapp
         resources: {}
 
